@@ -6,7 +6,7 @@ description: |
 date: "`r Sys.Date()`"
 author:
   - name: "Gabriel S. Santos"
-    url: https://gabeco.wixsite.com/home
+    url: https://ecosantos.netlify.app/
     affiliation: Universidade do Estado do Rio de Janeiro
     email_url: ssantos.gabriel@gmail.com
 #  - name: "Rich Iannone"
@@ -851,4 +851,3 @@ select(-c( Genus:AngioGymno, AdditionalSource:MatrixPopulation,Altitude,Ecoregio
 knitr::kable(Compadre.ASul,
              caption = "Metadados COMPADRE filtrado para América do Sul")
 ```
-
